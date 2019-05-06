@@ -1,0 +1,13 @@
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\bin\Debug\MDI.exe.config
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\bin\Debug\MDI.exe
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\bin\Debug\MDI.pdb
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\bin\Debug\MDI.xml
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.vbprojResolveAssemblyReference.cache
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.MDIParent1.resources
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.Resources.resources
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.vbproj.GenerateResource.Cache
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.exe
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.xml
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.pdb
+c:\users\mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.Form1.resources
+C:\Users\Mehdi\documents\visual studio 2015\Projects\MDI\MDI\obj\Debug\MDI.AboutBox1.resources
